@@ -1,0 +1,14 @@
+package idetest
+package pkg_in_singlefile
+
+import idetest.pkg_in_singlefile.OA
+import idetest.pkg_in_singlefile.CA
+
+object OA extends CA
+object OB extends CB(new CA())
+
+class CB(ca : CA) {
+	def this() = this(OA)
+}
+
+class CA
