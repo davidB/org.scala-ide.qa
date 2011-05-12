@@ -1,4 +1,4 @@
-package sandbox.junit;
+package samples_junit;
 
 import org.junit.*;
 import static org.junit.Assert.*;

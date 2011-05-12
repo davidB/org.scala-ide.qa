@@ -1,4 +1,4 @@
-package samples.junit;
+package samples_junit;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;

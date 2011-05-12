@@ -1,4 +1,4 @@
-package sandbox.junit;
+package samples_junit;
 
 public class Calculator {
 
