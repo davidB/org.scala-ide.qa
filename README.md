@@ -9,6 +9,7 @@ Provide a space where we (anyone in the ScalaIDE community) can store :
 # Install & run
 
 To run test from eclipse you need :
+
 1. to install [SWTBot IDE Support](http://swtbot.com/user-guide/download-and-install.html)
 2. clone the project
 3. import the project into eclipse
