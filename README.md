@@ -19,10 +19,12 @@ To run test from eclipse you need :
 
 I choose to create the project outside the main scalaIDE project and outside Assembla.
 Because :
+
 * github allow easy fork and contribution from other users
 * I didn't require CLA from user to provide project sample and code for test
 
 I choose to use java to code test, because :
+
 * SWTBot provide sample, helper, wizard for java 
 * test can run without scala-ide.org (no scala dependency)
 * test can run with any version of scala installed in eclipse
