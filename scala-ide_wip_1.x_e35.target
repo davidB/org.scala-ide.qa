@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <?pde version="3.6"?>
 
-<target name="e35_scala281">
+<target name="scala-ide_wip_1.x_e35">
 <locations>
 <location includeAllPlatforms="false" includeMode="planner" type="InstallableUnit">
 <unit id="org.maven.ide.eclipse.scala_feature.feature.group" version="0.2.3"/>
